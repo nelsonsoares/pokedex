@@ -133,13 +133,18 @@
 }
 
 .pagination button {
-  padding: 0.5rem 1rem;
+  padding: 0.7rem 1.2rem;
   margin: 0.25rem 0;
   font-size: 0.700rem;
   color:white;
   background-color: #8c79db;
   border: none;
-  border-radius: 1rem;
+  border-radius: 1.5rem;
+}
+
+.pagination button:hover {
+  color: white;
+  background-color: #6c5bae;
 }
 
 .pokemon .detail img {
