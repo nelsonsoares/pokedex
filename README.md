@@ -27,8 +27,4 @@ O projeto é uma prática dos conceitos e métodos abordados no bootcamp
 - Consumindo API com o Fetch
 - Estrutura e pastas
 
-## Projeto
-
-➡️ [Visualizar projeto]('')
-
 Feito com ♥ by Nelson Soares
